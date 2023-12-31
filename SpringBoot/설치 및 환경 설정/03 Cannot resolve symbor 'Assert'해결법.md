@@ -13,8 +13,8 @@ dependencies{
 <br>
 <br>
 
-**!! 하고 나서 Gradle 새로 고침 해줄 것 !!**
-![image](https://github.com/jiyeonnnny/Today_I_Learned_2/assets/139419091/51a1730f-4249-439a-8be6-8c8425e9d034)
+**!! 하고 나서 Gradle 새로 고침 해줄 것 !!**    
+![image](https://github.com/jiyeonnnny/Today_I_Learned_2/assets/139419091/51a1730f-4249-439a-8be6-8c8425e9d034)    
 
 
 <br>
