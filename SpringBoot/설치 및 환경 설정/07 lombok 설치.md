@@ -15,7 +15,7 @@ toString, Builder 등을 자동으로 만들어주는 라이브러리
 
 # 1. Lombok 의존성 추가
 ### (1). spring intializer 사용
-![Alt text](image.png)
+![Alt text](./images/image.png)
 
 <br>
 
@@ -43,14 +43,14 @@ dependencies {
 <br>
 
 # 2. IntelliJ Lombok 플로그인 설치
-![Alt text](image-4.png)
+![Alt text](./images/image-4.png)
 File - settings - plugin - install
 
 <br>
 <br>
 
 # 3. IntelliJ Annotation Processing 설정
-![Alt text](image-3.png)
+![Alt text](./images/image-3.png)
 File - settings - Annotation Processors검색 - Enable annotation processing 클릭
 
 <br>
