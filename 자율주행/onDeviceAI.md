@@ -25,9 +25,9 @@
 
 # on-Device AI 기술을 SSAFY 팀프로젝트에 녹여낼 순 없을까
 1. open source on-device ai 프레임워크 활용
-![alt text](image-20.png)
-![alt text](image-21.png)
-![alt text](image-22.png)
+![alt text](image/image-20.png)
+![alt text](image/image-21.png)
+![alt text](image/image-22.png)
 
 
 2. ML on Android with MediaPipe and Tensorflow lite
@@ -38,4 +38,4 @@
 - 연산 속도를 가속화 하는데, CNN 연산 가속은 가능한데, RNN과 Transformer은 불가능함
 
 ### coral + teachable machine + raspberry pi프로젝트
-![alt text](image-23.png)
+![alt text](image/image-23.png)
